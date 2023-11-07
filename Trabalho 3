@@ -1,0 +1,41 @@
+“A relação entre a LGPD e os data centers no Brasil”
+
+Site 1-
+a Lei Geral de Proteção de Dados Pessoais, aprovada em agosto de 2018 sob o nº 13.709 e com vigência a partir de agosto de 2020, cria um cenário de segurança jurídica com a padronização de normas e práticas, para promover a proteção (considerando o respeito à privacidade) dos dados pessoais de todo cidadão que esteja no Brasil. Nesse sentido, a LGPD estabelece, ainda, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação. a lei também determina que é permitido compartilhar dados com organismos internacionais e com outros países, desde que esse processo siga protocolos seguros e que cumpra as exigências legais. Um trabalho científico publicado em janeiro de 2021 no Journal of Data and Information Quality aponta que os vazamentos de dados aumentaram 493% no Brasil entre 2018 e 2019. Isso significa que o risco de penalidade a qualquer empresa que não tenha se adaptado corretamente aos requisitos da norma é enorme. Data Centers consistem em um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. Essa estrutura geralmente reúne servidores, bancos de dados informatizados e componentes auxiliares, como storages e ativos de rede (switches e roteadores). Uma das funções mais importantes de um Data Center é assegurar que os dados e sistemas hospedados nele possam ser acessados a qualquer momento. Por isso, a infraestrutura de rede não pode ficar inoperante em razão de um problema de link de internet, por exemplo. Então, considerando-se que o Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD. 
+
+Site 3 –
+Como a LGPD aprofundou as questões ligadas aos Data Centers?
+A LGPD reforçou, ainda mais, a necessidade das empresas e Data Centers se preocuparem com a segurança e pensarem nela já na concepção e estruturação de seus produtos e projetos. É o que chamamos de metodologia privacy by design, onde o conceito de privacidade e segurança será integrado em todo o ciclo de vida de sistemas, práticas comerciais, projetos, produtos ou qualquer outra solução que envolva o manuseio de dados pessoais, desde a sua concepção.
+Mesmo que um Data Center não tenha sede no Brasil a LGPD terá o mesmo peso jurídico?
+Sim, a LGPD será aplicada a qualquer operação de tratamento realizada no território nacional (ou mesmo fora dele), independentemente do local onde a empresa tem sede ou onde os dados estão localizados, desde que: a operação de tratamento seja realizada no território nacional; a atividade de tratamento tenha por objetivo a oferta ou o fornecimento de bens, ou serviços, ou o tratamento de dados de indivíduos localizados no território nacional; ou os dados pessoais objeto do tratamento tenham sido coletados no território nacional.
+
+ChatGpt – 
+A Lei Geral de Proteção de Dados Pessoais (LGPD), promulgada em agosto de 2018 e efetiva a partir de agosto de 2020, estabeleceu uma base de segurança jurídica ao padronizar normas e práticas visando à proteção dos dados pessoais de cidadãos brasileiros, enfocando a privacidade. A LGPD abrange tanto organizações nacionais quanto internacionais, bem como os dados processados digitalmente ou fisicamente, regulamentando a transferência de dados para entidades estrangeiras. Com base na legislação, um estudo de janeiro de 2021 indicou um alarmante aumento de 493% nos vazamentos de dados no Brasil entre 2018 e 2019, o que realça a importância da conformidade. Dessa forma, a LGPD reforçou a necessidade de empresas e Data Centers incorporarem desde o princípio a segurança e a privacidade em seus produtos e projetos, adotando a abordagem "privacy by design".
+
+A LGPD estende sua jurisdição a operações de tratamento de dados pessoais dentro e fora do Brasil, independente da sede da empresa ou da localização dos dados. Isso engloba operações de tratamento realizadas no país, atividades que visem a oferta de bens ou serviços, ou ainda o tratamento de dados de indivíduos situados no território brasileiro, mesmo que os dados tenham sido coletados internacionalmente. Assim, a LGPD intensifica a atenção às práticas de Data Centers, que desempenham papel crucial no processamento e armazenamento de informações. A infraestrutura desses centros deve operar em conformidade com os princípios da LGPD, em consonância com a metodologia privacy by design, a fim de garantir a segurança e privacidade dos dados sob sua custódia, considerando o cenário de aumento dos riscos e das penalidades associadas ao não cumprimento das normas estabelecidas.
+
+
+BIBLIOGRAFIA:
+● https://odatacolocation.com/blog/lgpd-para-datacenters/#:~:text=Nesse%20sentido%2C%20a%20LGPD%20estabelece,todos%20est%C3%A3o%20sujeitos%20%C3%A0%20regula%C3%A7%C3%A3o.
+
+● https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+
+● https://panoramamercantil.com.br/os-impactos-da-lgpd-para-os-data-centers/
+“Formatos de arquivos de dados proprietários e abertos”
+
+Site 1 – 
+Formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. Formatos portam padrões e são implementados por softwares, podendo ser abertos ou fechados, livres ou proprietários. Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. Um formato aberto deve ser implementável tanto em software proprietário como em software livre, usando as licenças típicas de cada um. Em contraste o formato proprietário é controlado e defendido por interesses particulares da empresa detentora de seus direitos. 
+
+Site 2 –
+Formatos abertos
+Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso. O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+Formatos proprietários
+Os formatos proprietários são, na verdade, controlados e definidos por interesses privados. Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo. A título de exemplo, o formato MP3 é proprietário mas também aberto porque, se bém patenteado, suas especificações são públicas. Tornar públicas as especificações técnicas é uma maneira de difundir o formato e torná-lo um padrão internacional.
+
+BIBLIOGRAFIA:
+● https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos.
+
+● https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+
+
+
